@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/paperspace/Desktop/nmt-chatbot/model/best_bleu/translate.ckpt-414000"
+all_model_checkpoint_paths: "/home/paperspace/Desktop/nmt-chatbot/model/best_bleu/translate.ckpt-414000"
